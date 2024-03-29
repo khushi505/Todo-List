@@ -1,0 +1,11 @@
+/* .container {
+  background-image: url("../public/todo-bg.png");
+  background-size: cover; 
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("/jess-bailey-rBh0T1QaC1Q-unsplash.jpg");
+  background-size: cover;
+}
